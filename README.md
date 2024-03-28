@@ -10,3 +10,4 @@ This repository contains notebooks and datasets about climate science and atmosp
 
 ## Air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
+* [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)
