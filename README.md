@@ -15,3 +15,5 @@ This repository contains notebooks and datasets about climate science and atmosp
 
 Climate and Air Quality Tools
 * [EPA - AERMOD Modeling System](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models)  
+* [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
+* [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
