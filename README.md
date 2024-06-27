@@ -15,6 +15,8 @@ This repository contains notebooks and datasets about climate science and atmosp
 
 ## Climate and Air Quality Tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
+* [ECMWF OpenIFS](https://confluence.ecmwf.int/display/OIFS)  
+* [ECMWF Github repositories](https://github.com/ecmwf)  
 * [EPA - AERMOD Modeling System](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models)  
 * [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
 * [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
