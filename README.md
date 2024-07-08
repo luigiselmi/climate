@@ -11,7 +11,8 @@ This repository contains notebooks and datasets about climate science and atmosp
 
 ## Air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
-* [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)
+* [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
+* [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models 
 
 ## Climate and Air Quality Models, Tools, and Datasets
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
@@ -21,4 +22,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
 * [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
 * [Data Assimilation Research Testbed](https://dart.ucar.edu/)  
-* [openaq](https://openaq.org/)
+* [openaq](https://openaq.org/)  
+* [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)  
+* [MetPy](https://unidata.github.io/MetPy/latest/index.html)  
+* [pyaerocom](https://pyaerocom.readthedocs.io/en/latest/index.html#) global aerosol data processing  
