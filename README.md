@@ -12,7 +12,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 ## Air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
-* [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models 
+* [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 
 ## Climate and Air Quality Models, Tools, and Datasets
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
@@ -26,3 +26,4 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)  
 * [MetPy](https://unidata.github.io/MetPy/latest/index.html)  
 * [pyaerocom](https://pyaerocom.readthedocs.io/en/latest/index.html#) global aerosol data processing  
+* [NOAA - Climate Prediction Center El Nino / La Nina episodes (1950-present)](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)  
