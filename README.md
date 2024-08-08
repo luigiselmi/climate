@@ -22,7 +22,8 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
 * [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
 * [Data Assimilation Research Testbed](https://dart.ucar.edu/)  
-* [openaq](https://openaq.org/)  
+* [openaq](https://openaq.org/), air quality data
+* [AirNow](https://www.airnow.gov/), air quality data for the US   
 * [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)  
 * [MetPy](https://unidata.github.io/MetPy/latest/index.html)  
 * [METplotpy](https://metplotpy.readthedocs.io/en/latest/index.html), model evaluation tool
