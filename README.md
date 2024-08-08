@@ -1,4 +1,4 @@
-Air Quality and Climate
+Air Composition and Climate
 =======================
 This repository contains notebooks and datasets about climate science and atmosphere composition.
 
