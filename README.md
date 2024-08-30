@@ -33,4 +33,5 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Argo](https://argo.ucsd.edu/), temperature and salinity of the ocean  
 * [HITRAN](https://hitran.org/), air molecular absorption database  
 * [xCDAT](https://xcdat.readthedocs.io/en/latest/index.html), Xarray Climate Data Analysis Tools  
-* [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data
+* [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data  
+* [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer 
