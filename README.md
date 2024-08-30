@@ -26,7 +26,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [openaq](https://openaq.org/), air quality data
 * [AirNow](https://www.airnow.gov/), air quality data for the US   
 * [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)  
-* [MetPy](https://unidata.github.io/MetPy/latest/index.html)  
+* [MetPy](https://unidata.github.io/MetPy/latest/index.html), Python package for calculations with weather data  
 * [METplotpy](https://metplotpy.readthedocs.io/en/latest/index.html), model evaluation tool
 * [pyaerocom](https://pyaerocom.readthedocs.io/en/latest/index.html#), global aerosol data processing  
 * [NOAA - Climate Prediction Center El Nino / La Nina episodes (1950-present)](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)  
@@ -34,4 +34,4 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [HITRAN](https://hitran.org/), air molecular absorption database  
 * [xCDAT](https://xcdat.readthedocs.io/en/latest/index.html), Xarray Climate Data Analysis Tools  
 * [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data  
-* [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer 
+* [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer
