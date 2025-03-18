@@ -15,6 +15,9 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 
+### Textbooks
+* []
+
 ## Climate and Air Quality Models, Tools, and Datasets
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
 * [GEOS-Chem](https://geoschem.github.io/), global 3-D model of atmospheric chemistry  
@@ -34,5 +37,6 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Argo](https://argo.ucsd.edu/), temperature and salinity of the ocean  
 * [HITRAN](https://hitran.org/), air molecular absorption database  
 * [xCDAT](https://xcdat.readthedocs.io/en/latest/index.html), Xarray Climate Data Analysis Tools  
+* [Comprehensive Air Quality Model with Extensions (CAMx)](https://www.camx.com/), A multi-scale photochemical modeling system for gas and particulate air pollution  
 * [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data  
 * [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer
