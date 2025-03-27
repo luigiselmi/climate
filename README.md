@@ -1,5 +1,5 @@
 Air Composition and Climate
-=======================
+===========================
 This repository contains notebooks and datasets about climate science and atmosphere composition.
 
 ## Climate
@@ -14,6 +14,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
+* [6th Joint ECMWF-ESA-EUMETSAT Training in Atmospheric Composition](https://github.com/ecmwf-training/2024-cams-act6-training)
 
 ### Textbooks
 * []
