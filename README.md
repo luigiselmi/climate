@@ -22,6 +22,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [ECMWF OpenIFS](https://confluence.ecmwf.int/display/OIFS)  
 * [ECMWF Github repositories](https://github.com/ecmwf)  
 * [EPA - AERMOD Modeling System](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models)  
+* [CALPUFF Modeling System (Version 6)](https://calpuff.org/), puff dispersion model
 * [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
 * [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
 * [Data Assimilation Research Testbed](https://dart.ucar.edu/)  
@@ -38,4 +39,3 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Comprehensive Air Quality Model with Extensions (CAMx)](https://www.camx.com/), A multi-scale photochemical modeling system for gas and particulate air pollution  
 * [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data  
 * [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer
-* [CALPUFF Modeling System (Version 6)](https://calpuff.org/), puff dispersion model
