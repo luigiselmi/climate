@@ -16,7 +16,18 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 * [6th Joint ECMWF-ESA-EUMETSAT Training in Atmospheric Composition](https://github.com/ecmwf-training/2024-cams-act6-training)
 
-## Climate and Air Quality Models, Tools, and Datasets
+## Air composition datasets
+* [openaq](https://openaq.org/), air quality data
+* [AirNow](https://www.airnow.gov/), air quality data for the US   
+
+## Climate datasets
+* [James Hansen - Updating the Climate Science](https://www.columbia.edu/~jeh1/Data/)
+* [NOAA - Climate Prediction Center El Nino / La Nina episodes (1950-present)](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)  
+* [Argo](https://argo.ucsd.edu/), temperature and salinity of the ocean  
+* [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)
+* [NASA Cloud and the Earth's Radiant Energy System (CERES)](https://ceres.larc.nasa.gov/), clouds and earth's energy budget
+
+## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
 * [GEOS-Chem](https://geoschem.github.io/), global 3-D model of atmospheric chemistry  
 * [ECMWF OpenIFS](https://confluence.ecmwf.int/display/OIFS)  
@@ -26,14 +37,9 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
 * [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
 * [Data Assimilation Research Testbed](https://dart.ucar.edu/)  
-* [openaq](https://openaq.org/), air quality data
-* [AirNow](https://www.airnow.gov/), air quality data for the US   
-* [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)  
 * [MetPy](https://unidata.github.io/MetPy/latest/index.html), Python package for calculations with weather data  
 * [METplotpy](https://metplotpy.readthedocs.io/en/latest/index.html), model evaluation tool
 * [pyaerocom](https://pyaerocom.readthedocs.io/en/latest/index.html#), global aerosol data processing  
-* [NOAA - Climate Prediction Center El Nino / La Nina episodes (1950-present)](https://origin.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ONI_v5.php)  
-* [Argo](https://argo.ucsd.edu/), temperature and salinity of the ocean  
 * [HITRAN](https://hitran.org/), air molecular absorption database  
 * [xCDAT](https://xcdat.readthedocs.io/en/latest/index.html), Xarray Climate Data Analysis Tools  
 * [Comprehensive Air Quality Model with Extensions (CAMx)](https://www.camx.com/), A multi-scale photochemical modeling system for gas and particulate air pollution  
