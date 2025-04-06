@@ -30,6 +30,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
+* [CNR-ISAC - GLOBO/BOLAM/MOLOCH](https://www.isac.cnr.it/dinamica/projects/forecasts/), global and limited area weather forecast models
 * [GEOS-Chem](https://geoschem.github.io/), global 3-D model of atmospheric chemistry  
 * [ECMWF OpenIFS](https://confluence.ecmwf.int/display/OIFS)  
 * [ECMWF Github repositories](https://github.com/ecmwf)  
