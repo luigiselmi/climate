@@ -47,3 +47,5 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Comprehensive Air Quality Model with Extensions (CAMx)](https://www.camx.com/), A multi-scale photochemical modeling system for gas and particulate air pollution  
 * [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data  
 * [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer
+* [Consortium for Small-scale Modeling](https://www.cosmo-model.org/content/default.htm)
+* [GT4Py - GridTools for Python](https://gridtools.github.io/gt4py/latest/index.html#), a DSL compiler framework for weather and climate modeling
