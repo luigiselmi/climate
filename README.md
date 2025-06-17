@@ -15,6 +15,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 * [6th Joint ECMWF-ESA-EUMETSAT Training in Atmospheric Composition](https://github.com/ecmwf-training/2024-cams-act6-training)
+* [Wekeo Jupyter Catalogue](https://notebooks.prod.wekeo2.eu/) 
 
 ## Air composition datasets
 * [openaq](https://openaq.org/), air quality data
