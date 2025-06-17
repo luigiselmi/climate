@@ -49,3 +49,5 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Panoply](https://www.giss.nasa.gov/tools/panoply/download/), data viewer
 * [Consortium for Small-scale Modeling](https://www.cosmo-model.org/content/default.htm)
 * [GT4Py - GridTools for Python](https://gridtools.github.io/gt4py/latest/index.html#), a DSL compiler framework for weather and climate modeling
+* [Atmospheric Toolbox](https://atmospherictoolbox.org/), regridding and variables transformation
+* [ESMPy: ESMF Python Regridding Interface](https://earthsystemmodeling.org/esmpy/), 3D regridding on the sphere (interpolation)
