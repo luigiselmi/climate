@@ -8,7 +8,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Faostat](iia/fao/faostat.ipynb)
 * [Faostat Global Model for Crops Yield](iia/fao/faostat_global_model.ipynb)
 * [Faostat Regional Model for Crops Yield](iia/fao/faostat_world_regions.ipynb)  
-* [Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#)  
+* [Finite Amplitude Impulse Response simple climate model](globaltemp/global_temperature_anomaly.ipynb)  
 
 ## Air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
