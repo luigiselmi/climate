@@ -52,4 +52,4 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [GT4Py - GridTools for Python](https://gridtools.github.io/gt4py/latest/index.html#), a DSL compiler framework for weather and climate modeling
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/), regridding and variables transformation
 * [ESMPy: ESMF Python Regridding Interface](https://earthsystemmodeling.org/esmpy/), 3D regridding on the sphere (interpolation)
-* [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#)
+* [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
