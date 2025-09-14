@@ -55,3 +55,4 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
+* [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model
