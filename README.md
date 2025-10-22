@@ -56,3 +56,4 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
 * [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model
+* [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis
