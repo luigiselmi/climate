@@ -8,16 +8,13 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Faostat](iia/fao/faostat.ipynb)
 * [Faostat Global Model for Crops Yield](iia/fao/faostat_global_model.ipynb)
 * [Faostat Regional Model for Crops Yield](iia/fao/faostat_world_regions.ipynb)  
-* [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)  
 
-## Air quality
+## Air composition and air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 * [6th Joint ECMWF-ESA-EUMETSAT Training in Atmospheric Composition](https://github.com/ecmwf-training/2024-cams-act6-training)
-* [Wekeo Jupyter Catalogue](https://notebooks.prod.wekeo2.eu/) 
-
-## Air composition datasets
+* [Wekeo Jupyter Catalogue](https://notebooks.prod.wekeo2.eu/)
 * [openaq](https://openaq.org/), air quality data
 * [AirNow](https://www.airnow.gov/), air quality data for the US   
 
@@ -52,8 +49,11 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [GT4Py - GridTools for Python](https://gridtools.github.io/gt4py/latest/index.html#), a DSL compiler framework for weather and climate modeling
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/), regridding and variables transformation
 * [ESMPy: ESMF Python Regridding Interface](https://earthsystemmodeling.org/esmpy/), 3D regridding on the sphere (interpolation)
-* [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
+* [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis
+
+## Earth System Models
+* [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
 * [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model
-* [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis
+* [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)  
