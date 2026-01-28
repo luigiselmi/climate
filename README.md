@@ -55,5 +55,5 @@ This repository contains notebooks and datasets about climate science and atmosp
 ## Earth System Models
 * [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
-* [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model
+* [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model, developed with Python
 * [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)  
