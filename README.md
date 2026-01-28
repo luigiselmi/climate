@@ -24,7 +24,8 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Argo](https://argo.ucsd.edu/), temperature and salinity of the ocean  
 * [NOAA - Global Precipitation Climatology Centre](https://psl.noaa.gov/data/gridded/data.gpcc.html)
 * [NASA Cloud and the Earth's Radiant Energy System (CERES)](https://ceres.larc.nasa.gov/), clouds and earth's energy budget
-* [ESA Earth Explorers](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_pioneering_science_missions_for_Earth)
+* [ESA Earth Explorers](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_pioneering_science_missions_for_Earth)  
+* [Global Carbon Budget](https://globalcarbonbudget.org/)
 
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
