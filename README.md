@@ -41,7 +41,6 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [MetPy](https://unidata.github.io/MetPy/latest/index.html), Python package for calculations with weather data  
 * [METplotpy](https://metplotpy.readthedocs.io/en/latest/index.html), model evaluation tool
 * [pyaerocom](https://pyaerocom.readthedocs.io/en/latest/index.html#), global aerosol data processing  
-* [HITRAN](https://hitran.org/), air molecular absorption database  
 * [xCDAT](https://xcdat.readthedocs.io/en/latest/index.html), Xarray Climate Data Analysis Tools  
 * [Comprehensive Air Quality Model with Extensions (CAMx)](https://www.camx.com/), A multi-scale photochemical modeling system for gas and particulate air pollution  
 * [Earth System Grid Federation](https://esgf.github.io/index.html), world wide access to Peta/Exa-scale scientific data  
@@ -50,8 +49,12 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [GT4Py - GridTools for Python](https://gridtools.github.io/gt4py/latest/index.html#), a DSL compiler framework for weather and climate modeling
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/), regridding and variables transformation
 * [ESMPy: ESMF Python Regridding Interface](https://earthsystemmodeling.org/esmpy/), 3D regridding on the sphere (interpolation)
-* [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
 * [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis
+
+## Radiative Transfer Models
+* [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
+* [HITRAN](https://hitran.org/), air molecular absorption database  
+* [MODTRAN Demo](http://modtran.spectral.com/modtran_home), MODerate resolution atmospheric TRANsmission
 
 ## Earth System Models
 * [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
