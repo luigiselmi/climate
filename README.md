@@ -9,7 +9,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Faostat Global Model for Crops Yield](iia/fao/faostat_global_model.ipynb)
 * [Faostat Regional Model for Crops Yield](iia/fao/faostat_world_regions.ipynb)  
 
-## Air composition and air quality
+## Atmospheric composition and air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
