@@ -7,7 +7,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Crop Yield in the Sahel](iia/fao/crop_production.ipynb)
 * [Faostat](iia/fao/faostat.ipynb)
 * [Faostat Global Model for Crops Yield](iia/fao/faostat_global_model.ipynb)
-* [Faostat Regional Model for Crops Yield](iia/fao/faostat_world_regions.ipynb)  
+* [Faostat Regional Model for Crops Yield](iia/fao/faostat_world_regions.ipynb)
 
 ## Atmospheric composition and air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
@@ -17,6 +17,10 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Wekeo Jupyter Catalogue](https://notebooks.prod.wekeo2.eu/)
 * [openaq](https://openaq.org/), air quality data
 * [AirNow](https://www.airnow.gov/), air quality data for the US   
+
+## Visualizations
+* [Spherical grid](spherical_grid.ipynb)
+* [Lorenz attractor](lorenz_attractor.ipynb)
 
 ## Climate datasets
 * [James Hansen - Updating the Climate Science](https://www.columbia.edu/~jeh1/Data/)
