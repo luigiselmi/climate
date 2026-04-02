@@ -54,7 +54,8 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [GT4Py - GridTools for Python](https://gridtools.github.io/gt4py/latest/index.html#), a DSL compiler framework for weather and climate modeling
 * [Atmospheric Toolbox](https://atmospherictoolbox.org/), regridding and variables transformation
 * [ESMPy: ESMF Python Regridding Interface](https://earthsystemmodeling.org/esmpy/), 3D regridding on the sphere (interpolation)
-* [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis
+* [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis  
+* [Inter-Sectoral Impact Model Intercomparison Project (ISIMIP)](https://www.isimip.org/), impact models of climate change across affected sectors and spatial scales
 
 ## Radiative Transfer Models
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
