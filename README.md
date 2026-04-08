@@ -31,6 +31,10 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [ESA Earth Explorers](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_pioneering_science_missions_for_Earth)  
 * [Global Carbon Budget](https://globalcarbonbudget.org/), $CO_2$ sources and sinks, yearly update
 * [Carbon Mapper](https://carbonmapper.org/), GHG detection satellites
+* [International Institute for Applied Systems Analysis - Models, tools, and data](https://iiasa.ac.at/models-tools-data)
+* [Emissions Database for Global Atmospheric Research (EDGAR)](https://edgar.jrc.ec.europa.eu/), global database of anthropogenic emissions of greenhouse gases and air pollution on Earth.
+* [The International Council on Clean Transportation](https://theicct.org/)
+* [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
 
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
