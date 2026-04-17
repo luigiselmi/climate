@@ -35,6 +35,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Emissions Database for Global Atmospheric Research (EDGAR)](https://edgar.jrc.ec.europa.eu/), global database of anthropogenic emissions of greenhouse gases and air pollution on Earth.
 * [The International Council on Clean Transportation](https://theicct.org/)
 * [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
+* [MethaneSAT](https://www.methanesat.org/), methane leak detection from satellites
 
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
