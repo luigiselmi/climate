@@ -72,4 +72,9 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
 * [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model, developed with Python
 * [ICON](https://www.icon-model.org/), modelling framework for weather, climate and environmental prediction
-* [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)  
+* [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)
+
+## Climate Impact, Finance and Policy
+* [The Network of Central Banks and Supervisors for Greening the Financial System (NGFS)](https://www.ngfs.net/en)
+* [Climate Policy Initiative (CPI)](https://www.climatepolicyinitiative.org/)
+* [GHG Protocol](https://ghgprotocol.org/), standards to measure and manage climate-warming emissions
