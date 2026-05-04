@@ -73,6 +73,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model, developed with Python
 * [ICON](https://www.icon-model.org/), modelling framework for weather, climate and environmental prediction
 * [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)
+* [Bern Simple Climate Model (BernSCM)](https://github.com/bernSCM/bernSCM), open source climate model in Fortran
 
 ## Climate Impact, Finance and Policy
 * [The Network of Central Banks and Supervisors for Greening the Financial System (NGFS)](https://www.ngfs.net/en)
