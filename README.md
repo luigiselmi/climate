@@ -2,25 +2,24 @@ Atmospheric Composition and Climate
 ===========================
 This repository contains notebooks and datasets about climate science and atmosphere composition.
 
-## Climate
+## Notebooks
 * [Global Mean Temperature Anomalies](globaltemp/global_temperature_anomaly.ipynb)
 * [Crop Yield in the Sahel](iia/fao/crop_production.ipynb)
 * [Faostat](iia/fao/faostat.ipynb)
 * [Faostat Global Model for Crops Yield](iia/fao/faostat_global_model.ipynb)
 * [Faostat Regional Model for Crops Yield](iia/fao/faostat_world_regions.ipynb)
-
-## Atmospheric composition and air quality
 * [Air Quality Assessment in the Arctic](iia/arctic/air_quality_arctic.ipynb)
 * [CAMS Air quality forecasts](iia/arctic/cams_pm10_monitoring.ipynb)  
-* [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 * [6th Joint ECMWF-ESA-EUMETSAT Training in Atmospheric Composition](https://github.com/ecmwf-training/2024-cams-act6-training)
 * [Wekeo Jupyter Catalogue](https://notebooks.prod.wekeo2.eu/)
-* [openaq](https://openaq.org/), air quality data
-* [AirNow](https://www.airnow.gov/), air quality data for the US   
-
-## Visualizations
 * [Spherical grid](spherical_grid.ipynb)
 * [Lorenz attractor](lorenz_attractor.ipynb)
+* [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)
+
+## Atmospheric composition and air quality
+* [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
+* [openaq](https://openaq.org/), air quality data
+* [AirNow](https://www.airnow.gov/), air quality data for the US   
 
 ## Climate datasets
 * [James Hansen - Updating the Climate Science](https://www.columbia.edu/~jeh1/Data/)
@@ -72,7 +71,6 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
 * [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model, developed with Python
 * [ICON](https://www.icon-model.org/), modelling framework for weather, climate and environmental prediction
-* [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)
 * [Bern Simple Climate Model (BernSCM)](https://github.com/bernSCM/bernSCM), open source climate model in Fortran
 
 ## Climate Impact, Finance and Policy
