@@ -70,8 +70,9 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
 * [The Witch Model](https://www.witchmodel.org/), climate change impacts model
 * [OSCAR](https://iiasa.ac.at/models-tools-data/oscar), a compact Earth system model, developed with Python
-* [ICON](https://www.icon-model.org/), modelling framework for weather, climate and environmental prediction
+* [ICON](https://www.icon-model.org/), open source modelling framework for weather, climate and environmental prediction
 * [Bern Simple Climate Model (BernSCM)](https://github.com/bernSCM/bernSCM), open source climate model in Fortran
+* [GEMS](https://easy.gems.dkrz.de/index.html#), high-resolution climate simulations
 
 ## Climate Impact, Finance and Policy
 * [The Network of Central Banks and Supervisors for Greening the Financial System (NGFS)](https://www.ngfs.net/en)
