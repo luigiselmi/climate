@@ -65,6 +65,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
 * [HITRAN](https://hitran.org/), air molecular absorption database  
 * [MODTRAN Demo](http://modtran.spectral.com/modtran_home), MODerate resolution atmospheric TRANsmission
+* [Global Solar Atlas](https://globalsolaratlas.info/)
 
 ## Earth System Models
 * [FaIR: Finite Amplitude Impulse Response simple climate model](https://docs.fairmodel.net/en/latest/#), a globally averaged climate model
