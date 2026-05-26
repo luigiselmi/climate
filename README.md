@@ -15,6 +15,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Spherical grid](spherical_grid.ipynb)
 * [Lorenz attractor](lorenz_attractor.ipynb)
 * [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)
+* [ECMWF Open Data](ecmwf/ecmwf_open_data.ipynb)
 
 ## Atmospheric composition and air quality
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
@@ -60,6 +61,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [ESMPy: ESMF Python Regridding Interface](https://earthsystemmodeling.org/esmpy/), 3D regridding on the sphere (interpolation)
 * [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis  
 * [Inter-Sectoral Impact Model Intercomparison Project (ISIMIP)](https://www.isimip.org/), impact models of climate change across affected sectors and spatial scales
+* [OpenGribs](https://opengribs.org/en/), weather visualization package
 
 ## Radiative Transfer Models
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
