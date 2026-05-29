@@ -17,6 +17,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Finite Amplitude Impulse Response simple climate model](globaltemp/fair_model.ipynb)
 * [ECMWF Open Data](ecmwf/ecmwf_open_data.ipynb)
 * [The Clausius-Clapeyron equation](clausius_clapeyron.ipynb)
+* [Unit conversion: from mixing ratio to mass density](atm_comp/atmospheric_composition.ipynb)
 
 ## Atmospheric composition and air quality
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
