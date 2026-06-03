@@ -39,6 +39,9 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Integrated Assessment Modeling Consortium](https://www.iamconsortium.org/)
 * [MethaneSAT](https://www.methanesat.org/), methane leak detection from satellites
 
+## Weather data
+* [Dipartimento Protezione Civile - Weather Radar Data](https://dpc-radar.readthedocs.io/it/latest/index.html)
+
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
 * [CNR-ISAC - GLOBO/BOLAM/MOLOCH](https://www.isac.cnr.it/dinamica/projects/forecasts/), global and limited area weather forecast models
