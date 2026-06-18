@@ -19,7 +19,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [The Clausius-Clapeyron equation](clausius_clapeyron.ipynb)
 * [Units conversion: from mixing ratio to mass density](atm_comp/atmospheric_composition.ipynb)
 
-## Atmospheric composition and air quality
+## Atmospheric composition and air quality datasets
 * [AeroVal](https://aeroval.met.no/) evaluation of climate and air quality models
 * [openaq](https://openaq.org/), air quality data
 * [AirNow](https://www.airnow.gov/), air quality data for the US   
@@ -54,7 +54,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [EPA - BenMAP - Benefit Assessment of Air Quality on Population Health](https://www.epa.gov/benmap)   
 * [SSA-MTM Toolkit - Singular Spectrum Analysis](https://dept.atmos.ucla.edu/tcd/ssa-mtm-toolkit)  
 * [Data Assimilation Research Testbed](https://dart.ucar.edu/)  
-* [MetPy](https://unidata.github.io/MetPy/latest/index.html), Python package for calculations with weather data  
+* [MetPy](https://unidata.github.io/MetPy/latest/index.html), Python package for weather data   
 * [METplotpy](https://metplotpy.readthedocs.io/en/latest/index.html), model evaluation tool
 * [pyaerocom](https://pyaerocom.readthedocs.io/en/latest/index.html#), global aerosol data processing  
 * [xCDAT](https://xcdat.readthedocs.io/en/latest/index.html), Xarray Climate Data Analysis Tools  
