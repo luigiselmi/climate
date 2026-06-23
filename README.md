@@ -42,6 +42,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 ## Weather data
 * [Dipartimento Protezione Civile - Weather Radar Data](https://dpc-radar.readthedocs.io/it/latest/index.html)
 * [University of Wyoming Atmospheric Science Radiosonde Archive](https://weather.uwyo.edu/upperair/sounding.shtml)
+* [Meteomanz.com](https://www.meteomanz.com/)
 
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
@@ -68,6 +69,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Toolkit for Extremes Climate Analysis (TECA)](https://cmec.llnl.gov/teca.html), a Python package for weather extremes analysis  
 * [Inter-Sectoral Impact Model Intercomparison Project (ISIMIP)](https://www.isimip.org/), impact models of climate change across affected sectors and spatial scales
 * [OpenGribs](https://opengribs.org/en/), weather visualization package
+* [RAOB - The Universal RAwinsonde OBservation program](https://raob.com/), rawinsonde and thermodiagrams visualization
 
 ## Radiative Transfer Models
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
