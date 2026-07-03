@@ -70,6 +70,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Inter-Sectoral Impact Model Intercomparison Project (ISIMIP)](https://www.isimip.org/), impact models of climate change across affected sectors and spatial scales
 * [OpenGribs](https://opengribs.org/en/), weather visualization package
 * [RAOB - The Universal RAwinsonde OBservation program](https://raob.com/), rawinsonde and thermodiagrams visualization
+* [earthkit](https://earthkit.ecmwf.int/), ECMWF Python libraries for accessing, processing, analysing and visualising meteorological and climate data.  
 
 ## Radiative Transfer Models
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
