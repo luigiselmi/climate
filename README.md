@@ -90,3 +90,5 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [The Network of Central Banks and Supervisors for Greening the Financial System (NGFS)](https://www.ngfs.net/en)
 * [Climate Policy Initiative (CPI)](https://www.climatepolicyinitiative.org/)
 * [GHG Protocol](https://ghgprotocol.org/), standards to measure and manage climate-warming emissions
+* [Global Change Assessment Model (GCAM)](https://jgcri.github.io/gcam-doc/v5.1/)
+* [IPCC Scenario Explorer and Database (hosted by IIASA)](https://iiasa.ac.at/models-tools-data/ar6-scenario-explorer-and-database)
