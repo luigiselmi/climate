@@ -70,7 +70,11 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Inter-Sectoral Impact Model Intercomparison Project (ISIMIP)](https://www.isimip.org/), impact models of climate change across affected sectors and spatial scales
 * [OpenGribs](https://opengribs.org/en/), weather visualization package
 * [RAOB - The Universal RAwinsonde OBservation program](https://raob.com/), rawinsonde and thermodiagrams visualization
-* [earthkit](https://earthkit.ecmwf.int/), ECMWF Python libraries for accessing, processing, analysing and visualising meteorological and climate data.  
+* [earthkit](https://earthkit.ecmwf.int/), ECMWF Python libraries for accessing, processing, analysing and visualising meteorological and climate data.
+
+## Atmospheric chemistry
+* [CoolProp](https://coolprop.org/contents.html), open-source database of fluid and humid air properties
+* [Cantera](https://cantera.org/), chemical kinetics, thermodynamics, and transport processes
 
 ## Radiative Transfer Models
 * [The Atmospheric Radiative Transfer Simulator](https://www.radiativetransfer.org/)
@@ -85,6 +89,9 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [ICON](https://www.icon-model.org/), open source modelling framework for weather, climate and environmental prediction
 * [Bern Simple Climate Model (BernSCM)](https://github.com/bernSCM/bernSCM), open source climate model in Fortran
 * [GEMS](https://easy.gems.dkrz.de/index.html#), high-resolution climate simulations
+* [National Center for Atmospheric Research - Community Earth System Models](https://www.cesm.ucar.edu/models)
+* [Isca](https://execlim.github.io/IscaWebsite/index.html), global circulation modelling
+* [CliMT](https://github.com/climt/climt), a toolkit for building Earth system models in Python
 
 ## Climate Impact, Finance and Policy
 * [The Network of Central Banks and Supervisors for Greening the Financial System (NGFS)](https://www.ngfs.net/en)
