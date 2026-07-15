@@ -91,7 +91,8 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [GEMS](https://easy.gems.dkrz.de/index.html#), high-resolution climate simulations
 * [National Center for Atmospheric Research - Community Earth System Models](https://www.cesm.ucar.edu/models)
 * [Isca](https://execlim.github.io/IscaWebsite/index.html), global circulation modelling
-* [CliMT](https://github.com/climt/climt), a toolkit for building Earth system models in Python
+* [CliMT](https://github.com/climt/climt), a toolkit for building Earth system models in Python  
+* [xgcm](https://xgcm.readthedocs.io/en/latest/), python package for working with the datasets produced by numerical General Circulation Models  
 
 ## Climate Impact, Finance and Policy
 * [The Network of Central Banks and Supervisors for Greening the Financial System (NGFS)](https://www.ngfs.net/en)
