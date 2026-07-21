@@ -43,6 +43,7 @@ This repository contains notebooks and datasets about climate science and atmosp
 * [Dipartimento Protezione Civile - Weather Radar Data](https://dpc-radar.readthedocs.io/it/latest/index.html)
 * [University of Wyoming Atmospheric Science Radiosonde Archive](https://weather.uwyo.edu/upperair/sounding.shtml)
 * [Meteomanz.com](https://www.meteomanz.com/)
+* [Iowa Environmental Mesonet](https://mesonet.agron.iastate.edu/archive/raob/)
 
 ## Climate and air quality models and tools
 * [Weather Research and Forecasting (WRF) Model](https://www.mmm.ucar.edu/models/wrf)  
