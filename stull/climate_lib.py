@@ -78,7 +78,7 @@ def moist_adiabat_lapse_rate(p, T):
 #------------------------------------------------
 # Moist adiabat
 #------------------------------------------------
-def moist_adiabat(T_0):
+def moist_adiabat_deprecated(T_0):
     '''
     This function computes the moist adiabat starting from
     the input temperature (Kelvin). The returned values are in Kelvin.
@@ -88,7 +88,7 @@ def moist_adiabat(T_0):
     top_p = 10 * 1000 * units.pascal
     step_p = (ground_p - top_p) /  num_steps # Pa
     m_adiabat = np.zeros(num_steps) * units.degK
-    pressure_levels = np.flip(np.linspace(top_p, ground_p, num_steps))
+    pressure_levels = np.linspace(ground_p, top_p, num_steps)
     i = 0
     T = T_0
     m_adiabat[i] = T_0
@@ -98,18 +98,18 @@ def moist_adiabat(T_0):
         m_adiabat[i] = T
         p = pressure_levels[i]
         
-    return np.flip(m_adiabat)
+    return m_adiabat
 
 #------------------------------------------------
 # Moist adiabats (a set of moist adiabat)
 #------------------------------------------------
-def moist_adiabats():
+def moist_adiabats_deprecated():
     '''
     This function computes a set of moist adiabats
     '''
     adiabats = [] 
     t_0 = np.array([-60, -50, -40, -30, -20, -10, 0, 10, 20, 30, 40, 50, 60]) * units.degK + c.T0
     for i in range(len(t_0)):
-        T = moist_adiabat(t_0[i])
+        T = moist_adiabat_deprecated(t_0[i])
         adiabats.append(T)
     return adiabats
